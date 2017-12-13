@@ -1,0 +1,133 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#e0ffb1">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ComplaintSummaryActivity">
+
+        <com.beardedhen.androidbootstrap.BootstrapLabel
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bootstrapBrand="success"
+            app:bootstrapHeading="h4"
+            app:roundedCorners="false"
+            android:text="@string/tt11"
+            style="@style/CodeFont2"
+            />
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            android:layout_marginBottom="8dp"
+            ads:adUnitId="@string/banner_ad_id">
+        </com.google.android.gms.ads.AdView>
+
+
+        <com.apg.mobile.roundtextview.RoundTextView
+            android:id="@+id/tv101"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffe2c8"
+            android:text="Personal Info . . . . ."
+            style="@style/CodeFont3"
+            app:allCorner="4dp"
+            app:bgColor="#4DD0E1"/>
+
+        <com.apg.mobile.roundtextview.RoundTextView
+            android:id="@+id/tv102"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="General Complaints . . . . ."
+            style="@style/CodeFont3"
+            android:background="#f6dc84"
+            app:allCorner="4dp"
+            app:bgColor="#AED581"/>
+
+        <com.apg.mobile.roundtextview.RoundTextView
+            android:id="@+id/tv103"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffe2c8"
+            style="@style/CodeFont3"
+            android:text="Respiratory Or Breathing Complaints . . . . ."
+            app:allCorner="4dp"
+            app:bgColor="#FFD54F"/>
+
+        <com.apg.mobile.roundtextview.RoundTextView
+            android:id="@+id/tv104"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chest Pain Related Complaints . . . . ."
+            style="@style/CodeFont3"
+            android:background="#f6dc84"
+            app:allCorner="4dp"
+            app:bgColor="#E0E0E0"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/confirm_proceed"
+        android:onClick="SubmitGF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK, VIEW PRESCRIPTION"
+        app:bootstrapBrand="primary"
+        android:layout_margin="16dp"
+        app:bootstrapSize="lg"
+        app:buttonMode="regular"
+        app:showOutline="false"
+        app:roundedCorners="true"
+        />
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/confirm_review"
+            android:onClick="SubmitRE"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UPDATE MY INFORMATION"
+            app:bootstrapBrand="primary"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:bootstrapSize="lg"
+            app:buttonMode="regular"
+            app:showOutline="false"
+            app:roundedCorners="true"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_margin="4dp"
+        android:id="@+id/tappx_banner5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+

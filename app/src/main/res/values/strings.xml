@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Chest Prescription</string>
+    <string name="app_description1">Emergency Disease And Management</string>
+    <string name="app_description2">Chest Disease And Its Presentation</string>
+    <string name="prescription_heading">DOCTOR\'S PRESCRIPTION</string>
+    <string name="banner_ad_id"></string>
+    <string name="ad_app_id"></string>
+    <string name="tappx_key"></string>
+
+    <!--Chief Complaints-->
+    <string name="cc1">Fever</string>
+    <string name="cc2">Cough</string>
+    <string name="cc3">Usual Respiratory Distress</string>
+    <string name="cc4">Pain All Over The Body</string>
+    <string name="cc5">Upper Back Pain</string>
+    <string name="cc6">Severe Chest Pain</string>
+    <string name="cc7">Mild Chest Pain</string>
+    <string name="cc8">Wheezing Breath Sounds</string>
+    <string name="cc9">Loss Of Appetite</string>
+    <string name="cc10">Passage Of Blood With Sputum</string>
+    <string name="cc11">Irregular Heartbeat</string>
+    <string name="cc12">Mild Breathlessness</string>
+    <string name="cc13">Breath Sound Diminished To Absent</string>
+    <string name="cc14">Progressive Increase In Breathlessness</string>
+    <string name="cc15">Sign Of Weight loss</string>
+    <string name="cc16">Sign Of Overweight</string>
+    <string name="cc17">Discomfort To Sleep On Back</string>
+    <string name="cc18">Develops Generalized Swelling Of Body</string>
+    <string name="cc19">Develops Breathlessness Due To Pulmonary Congestion</string>
+    <string name="cc20">Heart Palpitations</string>
+    <string name="cc21">Not Curable Breathlessness Needs Oxygen Inhalation</string>
+    <string name="cc22">Sudden Respiratory Distress</string>
+    <string name="cc23">No Respiratory Distress Or Breathing problem</string>
+    <string name="cc24">No Chest Pain</string>
+
+
+    <!--Chest Pains-->
+    <string name="cp1">Burning pain in empty stomach relieved by food &amp; Antacid</string>
+    <string name="cp2">Pain on movement of chest wall</string>
+    <string name="cp3">Chest pain on cough or breathing in</string>
+    <string name="cp4">Chest pain which is central and feeling of heaviness, tightness, band ligation with sweating &amp; breathlessness</string>
+    <string name="cp5">Feeling heaviness &amp; pain of chest on the affected side</string>
+    <string name="cp6">None of the above</string>
+
+    <!--Treatments-->
+    <string name="tm1">Antibiotic</string>
+    <string name="tm2">Paracetamol</string>
+    <string name="tm3">Anti-TB Drug</string>
+    <string name="tm4">Rifampicin</string>
+    <string name="tm5">I.N.H.</string>
+    <string name="tm6">Ethambutol</string>
+    <string name="tm7">P.Z.A</string>
+    <string name="tm8">Oxygen Inhalation</string>
+    <string name="tm9">Nebulization</string>
+    <string name="tm10">Ventolin Inhaler</string>
+    <string name="tm11">Steroid Inhaler</string>
+    <string name="tm12">Tablet Theophylline</string>
+    <string name="tm13">Chemotherapy</string>
+    <string name="tm14">Radiotherapy</string>
+    <string name="tm15">Operative Treatment</string>
+    <string name="tm16">Nebulization With Salbutamol &amp; Ipratropium Bromide</string>
+    <string name="tm17">At Times In Refractory case Artificial Respiration</string>
+    <string name="tm18">Partial Improvement With Bronchodilator Drugs Needs Oxygen Inhalation</string>
+    <string name="tm19">Bronchodilator</string>
+    <string name="tm20">Avoidance Of Industry Occupation - Cotton, Asbestos, Jute etc.</string>
+    <string name="tm21">Antacid - Tablet/Syrup</string>
+    <string name="tm22">PPI - Proton Pump Inhibitor (Omeprazole/Esomeprazole)</string>
+    <string name="tm23">H2-Receptor Blocker (Ranitidine/Famotidine)</string>
+    <string name="tm24">NSAID (Non-Steroid) - Diclofenac/Naproxen</string>
+    <string name="tm25">Sedatives</string>
+    <string name="tm26">Muscle Relaxant (Baclofen/Myolax)</string>
+    <string name="tm27">Naproxen</string>
+    <string name="tm28">Anti-TB Drug If Its Due To TB</string>
+    <string name="tm29">Antibiotic If Its Due To Pneumonia</string>
+    <string name="tm30">Chemotherapy Or Radiotherapy If Its Due To Malignancy</string>
+    <string name="tm31">Please Consult A Doctor For Proper Treatment</string>
+    <string name="tm32">Please Consult A Doctor For Treatment Based On Investigations</string>
+    <string name="tm33">Avoid Smoking</string>
+
+    <!--Diagnosis-->
+    <string name="dg1">Peptic Ulcer</string>
+    <string name="dg2">Musculoskeletal Disease</string>
+    <string name="dg3">Respiratory Diseases</string>
+    <string name="dg4">Bronchial Asthma</string>
+    <string name="dg5">Heart Disease - Irregular Heartbeat</string>
+    <string name="dg6">Ischemic Heart disease</string>
+    <string name="dg7">Bronchogenic Carcinoma</string>
+    <string name="dg8">Pneumonia</string>
+    <string name="dg9">Pulmonary TB</string>
+    <string name="dg10">COPD - Chronic Obstructive Pulmonary Disease</string>
+    <string name="dg11">Pleural Effusion - Collection Of Serous Fluid Within Pleural Cavity</string>
+    <string name="dg12">ILD - Interstitial lung disease</string>
+    <string name="dg13">Rhythm Disorder</string>
+    <string name="dg14">Heart Failure - Acute Lab Ventricular Failure</string>
+    <string name="dg15">Heart Failure - Right Heart Failure</string>
+    <string name="dg16">Heart Failure - Congestive Cardiac Failure</string>
+    <string name="dg17">Heart Failure - Left Heart Failure</string>
+    <string name="dg18">Please Consult A Doctor For Proper Diagnosis</string>
+
+    <!--Investigation-->
+    <string name="iv1">Upper GI Endoscopy</string>
+    <string name="iv2">X-Ray Chest</string>
+    <string name="iv3">ECG</string>
+    <string name="iv4">Eco-Cardiogram</string>
+    <string name="iv5">Cardiac Enzyme Test</string>
+    <string name="iv6">Blood Thyroid Function test</string>
+    <string name="iv7">ETT</string>
+    <string name="iv8">CAG</string>
+    <string name="iv9">Blood Pressure</string>
+    <string name="iv10">Blood Sugar Level</string>
+    <string name="iv11">Cholesterol Level</string>
+    <string name="iv12">Examination Of Percussion Note</string>
+    <string name="iv13">Pleural Fluid And Its Biochemical &amp; Cytological Test</string>
+    <string name="iv14">Please Consult A Doctor For Investigations</string>
+    <string name="iv15">Investigations Are Not Necessary</string>
+
+
+    <!--Patient Info-->
+    <string name="p1">Name</string>
+    <string name="p2">Work Or Occupation</string>
+    <string name="p3">Select Your Sex</string>
+    <string name="p4">Age</string>
+    <string name="p5">Diabetes</string>
+    <string name="p51">Yes</string>
+    <string name="p52">No</string>
+    <string name="p6">Blood Pressure</string>
+    <string name="p7">Smoking Habit</string>
+    <string name="p8">Family History</string>
+    <string name="p81">Hypertension</string>
+    <string name="p82">Diabetes Mellitus</string>
+    <string name="p83">Cancer</string>
+    <string name="p84">Psychiatric Disorder</string>
+    <string name="p85">Blood Disease (Leukemia/Thalassemia/Hemofilia)</string>
+    <string name="p9">Select Your Pulse Rate</string>
+    <string name="p91">Below 60</string>
+    <string name="p92">Between 60 &amp; 100 (Normal)</string>
+    <string name="p93">Above 100</string>
+    <string name="p511">On Diet</string>
+    <string name="p512">On Diet &amp; Life Style Modification</string>
+    <string name="p513">On Drug</string>
+    <string name="p514">Oral Hypoglycemic</string>
+    <string name="p515">Insulin</string>
+    <string name="p611">Blood Pressure Level</string>
+    <string name="p612">Systolic (Top Number)</string>
+    <string name="p613">Diastolic (Bottom Number)</string>
+    <string name="p10">Works In Jute/Cotton/Asbestos Industries</string>
+    <string name="p11">Below 40</string>
+    <string name="p12">Above 40</string>
+    <string name="p13">Male</string>
+    <string name="p14">Female</string>
+    <string name="p15">Others Occupation</string>
+    <string name="p16">No Occupation</string>
+
+    <!--Titles-->
+    <string name="tt1">CHECK ALL CHIEF COMPLAINTS</string>
+    <string name="tt2">Type Of Your Chest Pain</string>
+    <string name="tt3">Fill Up Required Info</string>
+    <string name="tt4">DIAGNOSIS</string>
+    <string name="tt5">INVESTIGATIONS</string>
+    <string name="tt6">TREATMENT</string>
+    <string name="tt7">PRESCRIPTION</string>
+    <string name="tt8">Select You Age Level</string>
+    <string name="tt9">Check All Breathing Or Respiratory Distress</string>
+    <string name="tt10">Suffering From Chest Pain?</string>
+    <string name="tt11">Review &amp; Confirm</string>
+    <string name="tt13">Review Complaint Summary</string>
+    <string name="title_activity_chest_pain">ChestPainActivity</string>
+    <string name="title_activity_diagnosis">DiagnosisActivity</string>
+    <string name="title_activity_treatment">TreatmentActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
